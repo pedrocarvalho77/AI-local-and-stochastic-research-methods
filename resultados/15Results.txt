@@ -1,0 +1,60 @@
+random (1-sim 0-não)?
+numero de pontos (n)?
+valor de 'k' no simulated annealing (-1=default)?
+coordenadas (x,y)
+
+EX.1
+Point nº0 (8 ,-5)
+Point nº1 (-5 ,4)
+Point nº2 (-1 ,-2)
+Point nº3 (-8 ,-9)
+Point nº4 (8 ,-1)
+Point nº5 (0 ,3)
+Point nº6 (-3 ,3)
+Point nº7 (5 ,-3)
+Point nº8 (0 ,4)
+Point nº9 (-1 ,-1)
+Point nº10 (1 ,0)
+Point nº11 (-7 ,3)
+Point nº12 (-3 ,-5)
+Point nº13 (-7 ,-8)
+Point nº14 (5 ,-9)
+
+EX.2A
+[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,0]
+
+EX.2B
+[0,7,4,10,9,2,12,13,3,11,1,6,5,8,14,0]
+
+EX.3
+(8,-1);(1,0) interseta com (0,4);(5,-9)
+
+Numero de candidatos = 1
+Candidato 0[0,7,4,8,5,6,1,11,3,13,12,2,9,10,14,0]
+
+EX4
+
+Solução A foi ótima
+[0,7,4,8,5,6,1,11,3,13,12,2,9,10,14,0]
+
+Solução B foi ótima
+[0,7,4,8,5,6,1,11,3,13,12,2,9,10,14,0]
+
+Solução C foi ótima
+[0,7,4,8,5,6,1,11,3,13,12,2,9,10,14,0]
+
+Solução D foi ótima
+[0,7,4,8,5,6,1,11,3,13,12,2,9,10,14,0]
+
+
+
+
+EX5
+
+Lista original
+[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,0]
+
+Simualted Annealing foi Otimo com kmax = 75
+
+Lista depois do simulated annealing
+[0,4,8,5,7,10,6,9,1,11,3,13,12,2,14,0]
