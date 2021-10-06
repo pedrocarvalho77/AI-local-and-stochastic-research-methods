@@ -10,6 +10,6 @@
 
 ### Important Instructions
 
-- O programa pergunta o se é aleatorio os pontos, numero de pontos, tamanho do mapa caso seje random e o valor de kmax para testes no simulated annealing
+- O programa pergunta se são aleatorios os pontos, número de pontos, tamanho do mapa caso seje random e o valor de kmax para testes no simulated annealing
 - Para testes, deve ser respondido escolhida a opçao não random, e responder as 3 primeiras perguntas e depois dar paste das coordenadas na ficheiros, caso contrario o programa empanca no input
 - Apenas existe grafico para o caso de 50 pontos, usando o geogebra online
